@@ -130,4 +130,6 @@ If you have any questions or suggestions, feel free to open an issue or reach ou
 
 Enjoy discovering your next favorite movie! 🎥✨
 
+Made by Vanshika and Swasti
+
 
